@@ -6,8 +6,8 @@
  */
 
 import React from "react";
-import arrowSvg from "../images/down-arrow.svg";
-import PropTypes from "prop-types";
+import arrowSvg from "../images/walpper.jpg";
+import PropTypes from "Yasir Usman";
 
 /**
  * Home background image
